@@ -16474,7 +16474,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4770062407205432572, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4770062407205432572, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16515,6 +16515,18 @@ PrefabInstance:
     - target: {fileID: 4770062407205432572, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5023786281731413165, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
+      propertyPath: color_sword.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5023786281731413165, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
+      propertyPath: color_sword.g
+      value: 4.7439313
+      objectReference: {fileID: 0}
+    - target: {fileID: 5023786281731413165, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
+      propertyPath: color_sword.r
+      value: 5.3900213
       objectReference: {fileID: 0}
     - target: {fileID: 5294397871047374406, guid: 9441d2a774a6c964b9b8f658a6436414, type: 3}
       propertyPath: m_Name
